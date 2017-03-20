@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sceneSetups:
 <<<<<<< HEAD
 - path: Assets/MainMenu/MainMenu.unity
@@ -6,3 +7,6 @@ sceneSetups:
 >>>>>>> parent of 9397d3a... new project
   isLoaded: 1
   isActive: 1
+=======
+sceneSetups: []
+>>>>>>> parent of 8bc8791... Main menu part 2
