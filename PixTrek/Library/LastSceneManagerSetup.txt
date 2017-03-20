@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/MainMenu/MainMenu.unity
+=======
+- path: Assets/test.unity
+>>>>>>> parent of 9397d3a... new project
   isLoaded: 1
   isActive: 1
