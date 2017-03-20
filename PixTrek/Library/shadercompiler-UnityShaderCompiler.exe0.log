@@ -3,7 +3,10 @@ Cmd: getPlatforms
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 1b8e0e9... 1
 =======
 >>>>>>> parent of 1b8e0e9... 1
 =======
@@ -14,6 +17,9 @@ Cmd: compileSnippet
   api=4 type=1 insize=833 outsize=298 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1b8e0e9... 1
+=======
 >>>>>>> parent of 1b8e0e9... 1
 =======
 >>>>>>> parent of 1b8e0e9... 1
