@@ -1,6 +1,10 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/MainMenu/MainMenu.unity
+=======
+- path: Assets/test.unity
+>>>>>>> parent of 9397d3a... new project
 =======
 - path: Assets/test.unity
 >>>>>>> parent of 9397d3a... new project
